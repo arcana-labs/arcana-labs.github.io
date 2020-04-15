@@ -2,8 +2,11 @@ title: Arcana Labs
 description: >
   Independant development studio based in ⚜️ Montreal.
 
-theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: solarized-dark
   social_links:
     github: arcana-labs
+
+plugins:
+  - jekyll-remote-theme
