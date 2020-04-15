@@ -1,1 +1,8 @@
+title: Arcana Labs
+description: >
+  Independant development studio based in ⚜️ Montreal.
+
 theme: minima
+minima:
+  social_links:
+    github: arcana-labs
