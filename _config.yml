@@ -4,5 +4,6 @@ description: >
 
 theme: minima
 minima:
+  skin: solarized-dark
   social_links:
     github: arcana-labs
